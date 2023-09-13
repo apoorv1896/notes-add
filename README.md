@@ -31,3 +31,7 @@ NotesWall has the following features:
 * Save notes: Notes are automatically saved to the browser's local storage.
 * Delete notes: Users can delete notes by clicking the "X" button on the note.
 * Change note color: Users can change the color of a note by clicking on the color picker and selecting a new color.
+
+<h2>🚀 Demo</h2>
+
+[https://apoorv1896.github.io/notes-add/](https://apoorv1896.github.io/notes-add/)
